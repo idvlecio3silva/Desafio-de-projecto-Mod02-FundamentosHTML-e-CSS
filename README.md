@@ -7,3 +7,6 @@ Nesse repositório apresento o resultado dos conhecimentos obtidos nesse segundo
 
 Veja como ficou na imagem e dê um olhada no meu código😎👍 
 
+<div align-"center">
+<img src="https://user-images.githubusercontent.com/66226187/180329732-a4c40ab7-b4bf-481f-a091-fe987ee4fa48.png"
+</div>
